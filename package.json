@@ -147,6 +147,7 @@
     "generate-inline-fizz-runtime": "node ./scripts/rollup/generate-inline-fizz-runtime.js"
   },
   "resolutions": {
-    "react-is": "npm:react-is"
+    "react-is": "npm:react-is",
+    "h": 123
   }
 }
